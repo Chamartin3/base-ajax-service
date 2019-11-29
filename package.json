@@ -1,0 +1,15 @@
+{
+  "name": "ajax-service",
+  "version": "1.0.0",
+  "description": "Basic template of a full API model based service. ",
+  "main": "AjaxDBService.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ajax",
+    "service"
+  ],
+  "author": "chamartin3",
+  "license": "MIT"
+}
